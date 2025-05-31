@@ -1,1 +1,2 @@
 models/MotionLoRA/*.safetensors filter=lfs diff=lfs merge=lfs -text
+fvd/styleganv/i3d_torchscript.pt filter=lfs diff=lfs merge=lfs -text
