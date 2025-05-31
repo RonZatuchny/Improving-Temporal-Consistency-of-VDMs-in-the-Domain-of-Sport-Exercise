@@ -1,0 +1,23 @@
+positive:male athlete performing hammer curl with smooth and consistent motion
+
+negative:
+-----------------
+positive:female athlete performing hammer curl with smooth and consistent motion
+
+negative:
+-----------------
+positive:male teenager performing hammer curl with smooth and consistent motion
+
+negative:
+-----------------
+positive:female teenager performing hammer curl with smooth and consistent motion
+
+negative:
+-----------------
+positive:male bodybuilder performing hammer curl with smooth and consistent motion
+
+negative:
+-----------------
+positive:female bodybuilder performing hammer curl with smooth and consistent motion
+
+negative:

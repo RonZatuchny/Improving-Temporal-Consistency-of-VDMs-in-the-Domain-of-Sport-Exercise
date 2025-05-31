@@ -14,3 +14,4 @@ safetensors
 gradio
 wandb
 lion-pytorch
+peft==0.10.0

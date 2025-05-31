@@ -1,0 +1,23 @@
+positive:male athlete performing decline bench press with smooth and consistent motion
+
+negative:
+-----------------
+positive:female athlete performing decline bench press with smooth and consistent motion
+
+negative:
+-----------------
+positive:male teenager performing decline bench press with smooth and consistent motion
+
+negative:
+-----------------
+positive:female teenager performing decline bench press with smooth and consistent motion
+
+negative:
+-----------------
+positive:male bodybuilder performing decline bench press with smooth and consistent motion
+
+negative:
+-----------------
+positive:female bodybuilder performing decline bench press with smooth and consistent motion
+
+negative:

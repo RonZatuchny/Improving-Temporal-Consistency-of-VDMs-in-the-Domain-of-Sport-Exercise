@@ -1,0 +1,23 @@
+positive:male athlete performing decline bench press
+
+negative:
+-----------------
+positive:female athlete performing decline bench press
+
+negative:
+-----------------
+positive:male teenager performing decline bench press
+
+negative:
+-----------------
+positive:female teenager performing decline bench press
+
+negative:
+-----------------
+positive:male bodybuilder performing decline bench press
+
+negative:
+-----------------
+positive:female bodybuilder performing decline bench press
+
+negative:
